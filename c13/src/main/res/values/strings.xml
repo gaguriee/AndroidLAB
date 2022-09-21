@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">C13</string>
+    <string name="sesac_contact">
+        SeSAC - 웹페이지: https://sesac.seoul.kr/learning/simple/popup.do/, 전화번호 : 02-1234-1234, 이메일 : sesac@google.com
+    </string>
+    <string name="sesac_info">
+       책을 집필하면서 설명만을 위해 사용한 짧은 코드는 별도로 저장해 두지 않았는데 필요하다고 하시는 분들이 계셔서 공유합니다. 파일 구성은 장 번호와 페이지 번호입니다. 예를 들어 위의 그림처럼 폴더명이 test6 이면 6장의 코드이며 그 안에 MainActivity163.kt 파일은 163 페이지에 나오는 코드입니다. "Doit 실습" 에 나오는 코드는 아래의 게시글이 참고해 주세요. https://kkangsnote.tistory.com/136?category=1048735 교재에 담긴 실습 코드 - 2021/01/28
+출처: https://kkangsnote.tistory.com/category/2022-Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린 [깡샘의 토마토:티스토리]
+           </string>
+</resources>
