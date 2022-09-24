@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -20,6 +21,9 @@
             <option value="$PROJECT_DIR$/c19" />
             <option value="$PROJECT_DIR$/c20" />
             <option value="$PROJECT_DIR$/c21" />
+            <option value="$PROJECT_DIR$/c23" />
+            <option value="$PROJECT_DIR$/doitproject1" />
+            <option value="$PROJECT_DIR$/doitproject2" />
           </set>
         </option>
       </GradleProjectSettings>
