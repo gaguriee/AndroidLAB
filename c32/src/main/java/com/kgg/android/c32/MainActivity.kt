@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         val listView = findViewById<ListView>(R.id.main_list)
 
-        val datas = resources.getStringArray(R.array.locations)
+        val datas = resources.getStringArray(R.array.lcations)
 
         val adapter = ArrayAdapter(
             this,
