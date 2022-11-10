@@ -54,6 +54,8 @@
         <entry key="c57/src/main/res/layout/fragment_setting.xml" value="0.1" />
         <entry key="c57/src/main/res/xml/settings.xml" value="0.1" />
         <entry key="c59/src/main/res/layout/activity_main.xml" value="0.10833333333333334" />
+        <entry key="c60/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="c60/src/main/res/layout/activity_read.xml" value="0.1" />
         <entry key="doitproject/src/main/res/layout/activity_main.xml" value="0.25634444216464425" />
         <entry key="doitproject1/src/main/res/layout/activity_main.xml" value="0.13829787234042554" />
         <entry key="doitproject2/src/main/res/layout/activity_main.xml" value="0.1" />
