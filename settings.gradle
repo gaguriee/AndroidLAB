@@ -10,8 +10,12 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url "https://jitpack.io" }
+        jcenter() // Warning: this repository is going to shut down soon
     }
 }
+
+
 rootProject.name = "AndroidLAB"
 include ':app'
 include ':c11'
@@ -73,3 +77,4 @@ include ':c82'
 include ':c83'
 include ':c85'
 include ':c87'
+include ':c88'
